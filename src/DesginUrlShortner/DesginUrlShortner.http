@@ -1,0 +1,6 @@
+@DesginUrlShortner_HostAddress = http://localhost:5043
+
+GET {{DesginUrlShortner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
