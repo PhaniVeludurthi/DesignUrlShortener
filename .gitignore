@@ -5,3 +5,6 @@
 /src/.vs
 /src/DesginUrlShortner/obj
 /src/DesginUrlShortner/bin
+/backend/.vs
+/backend/DesginUrlShortner/bin/Debug/net8.0
+/backend/DesginUrlShortner/obj
